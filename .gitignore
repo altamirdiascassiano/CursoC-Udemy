@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#ignore Builds from introducao
+**/introducao/Debug/*
+**/introducao/.vs/*
