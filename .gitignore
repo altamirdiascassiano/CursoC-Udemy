@@ -34,4 +34,4 @@
 #ignore Builds from CursoC++
 **/CursoC++/Debug/*
 **/CursoC++/.vs/*
-**/
+**/CursoC++/EnumFunctorsAritmeticaComPonteiro/Debug/*
