@@ -35,3 +35,6 @@
 **/CursoC++/Debug/*
 **/CursoC++/.vs/*
 **/CursoC++/*/Debug/*
+
+#ignore Builds from CursoC++
+**/packages/*
