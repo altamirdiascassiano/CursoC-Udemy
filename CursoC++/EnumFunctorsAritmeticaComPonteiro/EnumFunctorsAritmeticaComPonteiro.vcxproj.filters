@@ -18,8 +18,5 @@
     <ClCompile Include="classes-enum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="functor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
