@@ -38,3 +38,6 @@
 
 #ignore Builds from CursoC++
 **/packages/*
+
+#ignore Release from CursoC++
+**/Release/*
